@@ -2,8 +2,8 @@
   position: relative;
   max-width:130px;
   max-height:130px;
-  width: auto;
-  height: auto;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
   overflow: hidden;
   /* display: inline-block; */
@@ -568,7 +568,7 @@ small {
 } */
 
 .custom-paragraph{
-  font-size: 14px;
+  font-size: 16px;
 }
 
 @media (min-width: 1200px) {
