@@ -20,3 +20,11 @@
 
 ### Screenshot of home page of the website:
 ![Activity 3](https://github.com/nidaa-7/nidaa-7.github.io/assets/136858218/ef51b9a1-e9e5-4606-b5bb-b5fd44e556c5)
+
+
+## Activity 4:
+### Screenshot of repo:
+![Activity 4-2](https://github.com/nidaa-7/nidaa-7.github.io/assets/136858218/c60e61b2-b8b4-44ce-bc80-c269a9195870)
+
+### Screenshot of places travelled:
+![activity 4-1](https://github.com/nidaa-7/nidaa-7.github.io/assets/136858218/f04f1eb7-7d9a-4dd3-8eb9-79c60007b857)
