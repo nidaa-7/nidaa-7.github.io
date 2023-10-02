@@ -238,7 +238,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(100, 16, 202);
+  color: rgb(97, 15, 198);
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -321,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #6d0fe7 repeat;
+  background: #c69dfb repeat;
   position: relative;
 }
 
@@ -560,7 +560,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #220080 !important;
+  background-color: #3d0a70 !important;
 }
 
 /* .teal {
