@@ -321,7 +321,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #cda7ff repeat;
+  background: #6d0fe7 repeat;
   position: relative;
 }
 
@@ -368,7 +368,7 @@ h3 {
 .waves-effect.waves-blue .waves-ripple {
   /* The alpha value allows the text and background color
    of the button to still show through. */
-  background-color: rgba(114, 33, 243, 0.2);
+  background-color: rgba(115, 76, 178, 0.2);
 }
 
 .card {
